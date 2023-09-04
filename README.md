@@ -5,6 +5,7 @@
 2. 安装MySQL，创建 `names` 数据库
 3. 修改文件 `config.example.py` 名字为 `config.py`，并修改其内容
 4. 在当前目录下创建 `log` 空文件夹用以存放日志
+
 ## run
 启动程序：在shell窗口输入 `uwsgi uwsgi_wechat.ini -d ./log/server.log`  
 终止程序：在shell窗口输入 `kill -9 $(lsof -t -i:8111)`  

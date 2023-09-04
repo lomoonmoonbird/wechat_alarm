@@ -1,7 +1,5 @@
 #!/bin/env python
 #coding:utf-8
-#Author: Hogan
-
 
 
 import urllib.request,json

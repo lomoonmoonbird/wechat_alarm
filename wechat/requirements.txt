@@ -1,5 +1,0 @@
-flask
-wechatpy
-cryptography
-pycryptodome
-pymysql
